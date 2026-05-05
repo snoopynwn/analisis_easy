@@ -1,0 +1,1 @@
+este analisis fue segun un analisi rapido que queria hacer pero al final se alargo un poco mas. ya que fue un df al azar no pude crear un modelo tan fuerte, sin embargo el analisis estadistico fue retador y pude aprender cosas que aun no sabia
